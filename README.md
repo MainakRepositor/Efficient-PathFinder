@@ -2,8 +2,8 @@
 
 ### Demo : 
 
-![ss](https://user-images.githubusercontent.com/64016811/120960760-22e06180-c77a-11eb-8738-d3501e567347.jpg)
 
+![pathfinder](https://user-images.githubusercontent.com/64016811/120962644-bff0c980-c77d-11eb-81fc-e23c867f8ea2.gif)
 
 ### How to use:
 
@@ -18,3 +18,7 @@
   <li>When the plotting is finished, a purple line will be generated from the end point set by user, to the starting point, denoting the shortest path</li>
   <li>To escape the screen, or stop the process in between, just click on the red "X" button on the top right corner of the window.</li>
   </ol>
+  
+### End Product:
+
+![ss](https://user-images.githubusercontent.com/64016811/120960760-22e06180-c77a-11eb-8738-d3501e567347.jpg)
