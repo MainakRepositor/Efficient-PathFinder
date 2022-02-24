@@ -1,6 +1,6 @@
 # Efficient-Pathfinder
 
-### Demo : 
+### AIM : 
 
 ![ss](https://user-images.githubusercontent.com/64016811/120960760-22e06180-c77a-11eb-8738-d3501e567347.jpg)
 
