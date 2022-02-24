@@ -5,9 +5,6 @@
 ![ss](https://user-images.githubusercontent.com/64016811/120960760-22e06180-c77a-11eb-8738-d3501e567347.jpg)
 
 
-https://user-images.githubusercontent.com/64016811/155478194-c0614860-91a5-4d3b-b2a0-bfc01428af95.mp4
-
-
 
 ### How to use:
 
@@ -25,4 +22,5 @@ https://user-images.githubusercontent.com/64016811/155478194-c0614860-91a5-4d3b-
   
 ### End Product:
 
+https://user-images.githubusercontent.com/64016811/155478194-c0614860-91a5-4d3b-b2a0-bfc01428af95.mp4
 
